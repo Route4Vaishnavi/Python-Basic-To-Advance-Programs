@@ -6,3 +6,11 @@ a = 10
 b=20
 print("Modulus :",a//b)
 
+#type conversion
+a=10
+print(type(a))
+b=10
+c='7'
+print(type(b+int(c)))
+
+
